@@ -64,5 +64,6 @@ export {
     ExternalTokenResponse,
     // Utils
     StringUtils,
-    UrlString
+    UrlString,
+    AuthorizationHeaderParser
 } from "@azure/msal-common";
